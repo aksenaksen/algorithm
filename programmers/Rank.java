@@ -12,7 +12,7 @@ class People{
         this.lose = new HashSet<>();
     }
 }
-
+//깃아이디수정
 class Solution {
     public int solution(int n, int[][] results) {
         int answer = 0;
